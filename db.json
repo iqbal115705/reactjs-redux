@@ -76,6 +76,13 @@
             "alamat": "Aceh",
             "umur": 25,
             "nohp": "08574195842312"
+        },
+         {
+            "id": 12,
+            "nama": "Gandhi",
+            "alamat": "Blitar",
+            "umur": 24,
+            "nohp": "08574195842312"
         }
       ]
 }
